@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="baa5392c-a612-4535-ba47-58e32f6dc267" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1XEnyUUtz4G2NaM2l3vY50T8Icp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Python.palindrome">
+    <configuration name="palindrome" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="im_3_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/palindrome.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="str_comparing" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="im_3_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/str_comparing.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.palindrome" />
+        <item itemvalue="Python.str_comparing" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="baa5392c-a612-4535-ba47-58e32f6dc267" name="Default Changelist" comment="" />
+      <created>1580620375701</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580620375701</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="772" y="167" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580627889402">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="772" y="167" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1580627889402" />
+    <state width="1345" height="203" key="GridCell.Tab.0.bottom" timestamp="1580634108829">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="203" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580634108829" />
+    <state width="1345" height="203" key="GridCell.Tab.0.center" timestamp="1580634108829">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="203" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1580634108829" />
+    <state width="1345" height="203" key="GridCell.Tab.0.left" timestamp="1580634108829">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="203" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1580634108829" />
+    <state width="1345" height="203" key="GridCell.Tab.0.right" timestamp="1580634108829">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="203" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1580634108829" />
+    <state x="375" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1580737943308">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="375" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1580737943308" />
+  </component>
+</project>
