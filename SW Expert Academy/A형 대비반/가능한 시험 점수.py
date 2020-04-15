@@ -5,7 +5,7 @@ T = int(input())
 for tc in range(1, T + 1):
     N = int(input())
     scores = list(map(int,input().split()))
-    A = [1] +[0]*(sum(scores))
+    A = [1]+[0]*(sum(scores))
 
     S = [0]
     for score in scores :

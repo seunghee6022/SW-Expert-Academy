@@ -1,61 +1,44 @@
-#bfs
 import sys
 sys.stdin = open('dummy.txt','r')
-def printarr(arr):
-    print("Start printarr")
-    for i in range(N):
-        print(arr[i])
-    print()
 
 
-def f_bfs(i,j,flag):
-    if q :
-        i, j = q.pop()
-        for dx, dy in [(-1,0),(0,1),(1,0),(0,-1)]:
+def dfs(i,j,c,e):
+    global Max
+    if Max < e : Max = e
 
-            x, y = i+dx, j+dy
+    v[i][j] = 1
 
-
-            if not (0<=x<N and 0<=y<N) : continue
-
-            if flag :
-                hike[x][y]-=K
-                # print("hike[{}][{}] : {}".format(x,y,hike[x][y]))
-
-            if not v[x][y] and hike[x][y]<hike[i][j] :
-                print("hike[{}][{}] : {}".format(x, y, hike[x][y]))
-                q.append((x,y))
-                v[x][y] = v[i][j]+1
-                # if v[x][y] > K : return
-        flag = False
-        f_bfs(x,y,flag)
-
-
-
-
-
-
+    for dx, dy in [(0,1),(0,-1),(1,0),(-1,0)]:
+        x, y = i+dx, j+dy
+        if not (0<=x<N and 0<=y<N) :continue
+        if not v[x][y] and hike[x][y] < hike[i][j]:
+            dfs(x,y,c,e+1)
+        elif not v[x][y] and c and hike[x][y]-K < hike[i][j]:
+            org = hike[x][y]
+            hike[x][y] -= 1
+            dfs(x,y,c-1,e+1)
+            hike[x][y] = org
+    v[i][j] = 0
 
 T = int(input())
-for tc in range(1, T + 1):
-    N ,K = map(int,input().split())
-    hike = [list(map(int, input().split())) for _ in range(N)]
+for tc in range(1,T+1):
+    N , K = map(int,input().split())
+    hike = [[int(x) for x in input().split()] for _ in range(N)]
+    v = [[0]*N for _ in range(N)]
+    Max = 0
 
-
-    top_val = 0
-    for i in range(N):
-        if top_val < max(hike[i]): top_val = max(hike[i])
-
-    top = []
+    h = 0
+    h_list = []
     for i in range(N):
         for j in range(N):
-            if hike[i][j] == top_val:
-                top.append((i,j))
+            if h < hike[i][j] :
+                h = hike[i][j]
+                h_list = [(i,j)]
+            elif h == hike[i][j] :
+                h_list.append((i,j))
 
-    for idx in top :
-        q = [idx]
-        v = [[0]*N for _ in range(N)]
-        v[idx[0]][idx[1]] = 1
-        f_bfs(*idx,True)
-        printarr(v)
+    for idx in h_list :
+        dfs(*idx,1,1)
+
+    print("#{} {}".format(tc,Max))
 

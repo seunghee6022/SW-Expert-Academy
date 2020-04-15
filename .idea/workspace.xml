@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="26ef0d8a-1928-4a93-9133-ca4fa6cde440" name="Default Changelist" comment="" />
+    <list default="true" id="26ef0d8a-1928-4a93-9133-ca4fa6cde440" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/휴강복습/0327_과목평가/t.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/휴강복습/0327_과목평가/t2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/휴강복습/0327_과목평가/숫자이동1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/휴강복습/0327_과목평가/희토류2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/휴강복습/3월11일/1952_수영장.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/휴강복습/3월11일/1953_탈주범 검거.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/휴강복습/3월11일/4008_숫자만들기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/휴강복습/3월11일/5658_보물상자 비밀번호.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/휴강복습/3월11일/t.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/휴강복습/3월12일/1861_정사각형방.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/휴강복습/3월12일/1865_동철이의 일 분배.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/휴강복습/3월12일/5656_벽돌 깨기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/휴강복습/3월12일/t.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/휴강복습/3월12일/스도쿠 검증.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/휴강복습/3월19일/3378_스타일리쉬 들여쓰기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/휴강복습/3월19일/t.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/휴강복습/3월27일/stack2_미로찾기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/휴강복습/3월27일/t.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SW Expert Academy/A+형 대비반/dummy.txt" beforeDir="false" afterPath="$PROJECT_DIR$/SW Expert Academy/A+형 대비반/dummy.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SW Expert Academy/A+형 대비반/test2.py" beforeDir="false" afterPath="$PROJECT_DIR$/SW Expert Academy/A+형 대비반/test2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SW Expert Academy/A+형 대비반/등산로 조성.py" beforeDir="false" afterPath="$PROJECT_DIR$/SW Expert Academy/A+형 대비반/등산로 조성.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SW Expert Academy/A+형 대비반/요리사.py" beforeDir="false" afterPath="$PROJECT_DIR$/SW Expert Academy/A+형 대비반/요리사.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SW Expert Academy/A형 대비반/가능한 시험 점수.py" beforeDir="false" afterPath="$PROJECT_DIR$/SW Expert Academy/A형 대비반/가능한 시험 점수.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +39,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1XnflfE80H9STqqySnz4ImL55I9" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -22,7 +50,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/workshop/휴강기간" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
@@ -34,8 +62,8 @@
       <recent name="C:\Users\tgb03\PycharmProjects\programming IM" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.가능한 시험 점수">
-    <configuration name="벽돌 깨기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.자기 방으로 돌아가기">
+    <configuration name="올림픽 종목 투표" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -43,11 +71,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SW Expert Academy/A+형 대비반" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SW Expert Academy/복습휴강기간" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SW Expert Academy/A+형 대비반/벽돌 깨기.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SW Expert Academy/복습휴강기간/올림픽 종목 투표.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="자기 방으로 돌아가기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SW Expert Academy/복습휴강기간" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SW Expert Academy/복습휴강기간/자기 방으로 돌아가기.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -119,7 +168,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="가능한 시험 점수" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="자기 방으로 돌아가기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -127,11 +176,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SW Expert Academy/A형 대비반" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SW Expert Academy/복습휴강기간" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SW Expert Academy/A형 대비반/가능한 시험 점수.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SW Expert Academy/복습휴강기간/자기 방으로 돌아가기.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -140,7 +189,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="가르침" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="요리사" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -148,11 +197,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Backjun_Algorithm" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SW Expert Academy/A+형 대비반" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Backjun_Algorithm/가르침.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SW Expert Academy/A+형 대비반/요리사.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="gravity" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SW Expert Academy/복습휴강기간" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SW Expert Academy/복습휴강기간/gravity.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -182,28 +252,12 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest in 가능한 시험 점수.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="PycharmProjects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SW Expert Academy/A형 대비반" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/SW Expert Academy/A형 대비반/가능한 시험 점수.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.가능한 시험 점수" />
-        <item itemvalue="Python.등산로 조성" />
+        <item itemvalue="Python.자기 방으로 돌아가기" />
         <item itemvalue="Python.test2" />
-        <item itemvalue="Python.벽돌 깨기" />
-        <item itemvalue="Python tests.pytest in 가능한 시험 점수.py" />
+        <item itemvalue="Python.요리사" />
+        <item itemvalue="Python.gravity" />
       </list>
     </recent_temporary>
   </component>
@@ -237,46 +291,46 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="600" y="123" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1583211396327" />
-    <state width="1345" height="266" key="GridCell.Tab.0.bottom" timestamp="1583472682900">
+    <state width="1345" height="245" key="GridCell.Tab.0.bottom" timestamp="1583853883340">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="266" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583472682900" />
-    <state width="1345" height="266" key="GridCell.Tab.0.center" timestamp="1583472682899">
+    <state width="1345" height="245" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583853883340" />
+    <state width="1345" height="245" key="GridCell.Tab.0.center" timestamp="1583853883339">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="266" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583472682899" />
-    <state width="1345" height="266" key="GridCell.Tab.0.left" timestamp="1583472682899">
+    <state width="1345" height="245" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583853883339" />
+    <state width="1345" height="245" key="GridCell.Tab.0.left" timestamp="1583853883339">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="266" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583472682899" />
-    <state width="1345" height="266" key="GridCell.Tab.0.right" timestamp="1583472682899">
+    <state width="1345" height="245" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583853883339" />
+    <state width="1345" height="245" key="GridCell.Tab.0.right" timestamp="1583853883340">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="266" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583472682899" />
-    <state width="1345" height="220" key="GridCell.Tab.1.bottom" timestamp="1583424739341">
+    <state width="1345" height="245" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583853883340" />
+    <state width="1345" height="245" key="GridCell.Tab.1.bottom" timestamp="1583853883340">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="220" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583424739341" />
-    <state width="1345" height="220" key="GridCell.Tab.1.center" timestamp="1583424739341">
+    <state width="1345" height="245" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583853883340" />
+    <state width="1345" height="245" key="GridCell.Tab.1.center" timestamp="1583853883340">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="220" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1583424739341" />
-    <state width="1345" height="220" key="GridCell.Tab.1.left" timestamp="1583424739341">
+    <state width="1345" height="245" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1583853883340" />
+    <state width="1345" height="245" key="GridCell.Tab.1.left" timestamp="1583853883340">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="220" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1583424739341" />
-    <state width="1345" height="220" key="GridCell.Tab.1.right" timestamp="1583424739341">
+    <state width="1345" height="245" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1583853883340" />
+    <state width="1345" height="245" key="GridCell.Tab.1.right" timestamp="1583853883340">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="220" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1583424739341" />
+    <state width="1345" height="245" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1583853883340" />
     <state x="76" y="13" key="SettingsEditor" timestamp="1583211356462">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="76" y="13" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1583211356462" />
-    <state x="687" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1581760187848">
+    <state x="687" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1583504292634">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="687" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1581760187848" />
+    <state x="687" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1583504292634" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -646,12 +700,54 @@
           <line>34</line>
           <option name="timeStamp" value="157" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SW Expert Academy/A+형 대비반/등산로 조성.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="158" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SW Expert Academy/A+형 대비반/등산로 조성.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="160" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SW Expert Academy/A+형 대비반/등산로 조성.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="161" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SW Expert Academy/A+형 대비반/등산로 조성.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="162" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SW Expert Academy/A+형 대비반/등산로 조성.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="163" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SW Expert Academy/A+형 대비반/등산로 조성.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="166" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SW Expert Academy/복습휴강기간/자기 방으로 돌아가기.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="179" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
+        <watch expression="check" language="Python" />
+        <watch expression="idx" language="Python" />
+        <watch expression="i" language="Python" />
+        <watch expression="j" language="Python" />
+        <watch expression="move" language="Python" />
+        <watch expression="info" language="Python" />
+        <watch expression="(rx, ry)" language="Python" />
+        <watch expression="r" language="Python" />
         <watch expression="q" language="Python" />
-        <watch expression="arr" language="Python" />
       </configuration>
     </watches-manager>
   </component>
