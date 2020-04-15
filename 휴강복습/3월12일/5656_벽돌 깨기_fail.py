@@ -54,7 +54,7 @@ def bfs():
             bricks[i][j] = 0
 
         else :
-            print("i:{} j:{} dis:{}".format(i,j,dis))
+            # print("i:{} j:{} dis:{}".format(i,j,dis))
             for dx,dy in [(0,1),(0,-1),(1,0),(-1,0)]:
                 for d in range(1,dis):
                     x, y = i + dx*d, j + dy*d
