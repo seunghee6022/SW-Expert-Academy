@@ -1,5 +1,5 @@
 import sys
-sys.stdin = open('t.txt', 'r')
+sys.stdin = open('색종이붙이기.txt', 'r')
 
 def dfs(i,j,b_len):
     for dx,dy in [(1,0),(0,1),(-1,0),(0,-1)]:

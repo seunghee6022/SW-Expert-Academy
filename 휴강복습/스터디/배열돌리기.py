@@ -1,7 +1,7 @@
 import sys
 import itertools
 
-sys.stdin = open("t.txt", "r")
+sys.stdin = open("색종이붙이기.txt", "r")
 # laod the input
 N, M, K = map(int, sys.stdin.readline().split())
 matrix_data = [list(map(int, sys.stdin.readline().split())) for _ in range(N)]

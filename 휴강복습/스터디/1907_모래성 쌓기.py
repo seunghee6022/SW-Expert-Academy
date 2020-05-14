@@ -1,5 +1,5 @@
 import sys
-sys.stdin = open('t.txt','r')
+sys.stdin = open('색종이붙이기.txt', 'r')
 
 from collections import deque
 T = int(input())

@@ -5,7 +5,7 @@
 섬 리스트 - 섬 연결 체크
 '''
 import sys
-sys.stdin = open('t.txt','r')
+sys.stdin = open('색종이붙이기.txt', 'r')
 
 def printarr(arr):
     for i in range(N):

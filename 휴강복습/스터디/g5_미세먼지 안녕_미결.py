@@ -1,5 +1,5 @@
 import sys
-sys.stdin = open('t.txt','r')
+sys.stdin = open('색종이붙이기.txt', 'r')
 '''
 <1초동안 미세먼지의 확산 계산하기>
 1. matrix를 받아올 때 청소기의 위치를 저장.
@@ -62,24 +62,24 @@ def spreading_dust(dust_list):
 
 
 def air_cleaner(up_x, up_y,down_x,down_y, new_dust_list):
-    new_G = [[0,0]*C for _ in range(R)]
-    new_G[up_x][up_y] = [-1, 0]
-    new_G[down_x][down_y] = [-1, 0]
+    new_G = [[0,0]*C for _ in range(R) ]
     #위쪽부터(반시계)
     #왼쪽아래->오른아래
-
-    for dy in range(up_y+1,C-1):
-        new_G[up_x][dy+1] = G[up_x][dy]
-        if new_G[up_x][dy+1] >= 5 :
-            new_dust_list.append([up_x,dy+1])
-
+    prev,cur = 0, 0
+    for dy in range(up_y+1,C):
+        cur = G[up_x][dy][0]
+        G[up_x][dy][0] = prev
+        if prev >= 5 :
+            new_dust_list.append([up_x,dy])
+        prev = cur
 
     #오른아래->오른위
-    for dx in reversed(range(1,up_x)):
-        new_G[dx-1][C-1][0] = G[dx][C-1][0]
-        if new_G[dx-1][C-1][0] >= 5 :
-            new_dust_list.append([dx-1,C-1])
-
+    for dx in reversed(range(up_x)):
+        cur = G[dx][C-1][0]
+        G[dx][C-1][0] = prev
+        if prev >= 5 :
+            new_dust_list.append([dx,C-1])
+        prev = cur
 
     #오른위->왼위
     for dy in reversed(range(C-1)):
