@@ -26,8 +26,8 @@ def paper_min_count(s_x,s_y,e_x,e_y, cnt,visited):
     # print(s_x,s_y,e_x,e_y,visited[s_x][s_y])
     # printarr(visited)
     global total_cnt
-    # print("cnt:",cnt)
     papercnt = 0
+
     temp_papers = [0, 0, 0, 0, 0, 0]
     if cnt < 4:
         papers[1] -= cnt
